@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoFiguraMVC\\CalculoCirculo.csproj",
       "projectName": "CalculoCirculo",
-      "projectPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj",
+      "projectPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoFiguraMVC\\CalculoCirculo.csproj",
       "packagesPath": "C:\\Users\\Daniel Briceño\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\obj\\",
+      "outputPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoFiguraMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
