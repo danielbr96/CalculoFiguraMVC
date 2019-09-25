@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj": {}
+    "C:\\Users\\javiersito\\Desktop\\CalculoFiguraMVC\\CalculoCirculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj": {
+    "C:\\Users\\javiersito\\Desktop\\CalculoFiguraMVC\\CalculoCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj",
+        "projectUniqueName": "C:\\Users\\javiersito\\Desktop\\CalculoFiguraMVC\\CalculoCirculo.csproj",
         "projectName": "CalculoCirculo",
-        "projectPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj",
-        "packagesPath": "C:\\Users\\Daniel Briceño\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\obj\\",
+        "projectPath": "C:\\Users\\javiersito\\Desktop\\CalculoFiguraMVC\\CalculoCirculo.csproj",
+        "packagesPath": "C:\\Users\\javiersito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javiersito\\Desktop\\CalculoFiguraMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Daniel Briceño\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\javiersito\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
