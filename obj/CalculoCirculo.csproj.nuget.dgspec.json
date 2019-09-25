@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj": {}
+    "C:\\Users\\Mario\\Downloads\\CalculoCirculoMVC-master\\CalculoFiguraMVC\\CalculoCirculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj": {
+    "C:\\Users\\Mario\\Downloads\\CalculoCirculoMVC-master\\CalculoFiguraMVC\\CalculoCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj",
+        "projectUniqueName": "C:\\Users\\Mario\\Downloads\\CalculoCirculoMVC-master\\CalculoFiguraMVC\\CalculoCirculo.csproj",
         "projectName": "CalculoCirculo",
-        "projectPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\CalculoCirculo.csproj",
-        "packagesPath": "C:\\Users\\Daniel Briceño\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Briceño\\Desktop\\CalculoCirculo\\obj\\",
+        "projectPath": "C:\\Users\\Mario\\Downloads\\CalculoCirculoMVC-master\\CalculoFiguraMVC\\CalculoCirculo.csproj",
+        "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mario\\Downloads\\CalculoCirculoMVC-master\\CalculoFiguraMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Daniel Briceño\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
